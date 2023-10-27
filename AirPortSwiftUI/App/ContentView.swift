@@ -60,7 +60,7 @@ struct ContentView: View {
                         }
                     }
                 }, label: {
-                    Text("Search")
+                    Text("Buscar")
                         .textCase(/*@START_MENU_TOKEN@*/.uppercase/*@END_MENU_TOKEN@*/)
                         .foregroundColor(.white)
                         .padding()
